@@ -10,8 +10,23 @@
     "test": "jest"
   },
   "dependencies": {
+    "@ant-design/icons-react-native": "^2.3.2",
+    "@ant-design/react-native": "^5.4.2",
+    "@react-native-async-storage/async-storage": "^2.1.2",
+    "@reduxjs/toolkit": "^2.8.2",
+    "antd": "^5.25.4",
     "react": "19.0.0",
-    "react-native": "0.79.2"
+    "react-native": "0.79.2",
+    "react-native-gesture-handler": "^2.25.0",
+    "react-native-maps": "^1.23.8",
+    "react-native-reanimated": "^3.18.0",
+    "react-native-safe-area-context": "^5.4.1",
+    "react-native-screens": "^4.11.1",
+    "react-redux": "^9.2.0",
+    "redux": "^5.0.1",
+    "redux-logger": "^3.0.6",
+    "redux-persist": "^6.0.0",
+    "redux-thunk": "^3.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
